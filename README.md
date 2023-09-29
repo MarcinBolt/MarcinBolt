@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 # 💫 About Me:
-💻 I'm a junior JavaScript fullstack developer.<br>🔭 I’m currently working on React, Node.js, Vite.js.<br>👯 I’m looking to collaborate with a good company.<br>🌱 I’m currently learning JS, Node.js.<br>💬 Ask me about almost everything ;)
+💻 I'm a Junior JavaScript Full Stack Developer.<br>🔭 I’m currently working on React, Node.js, Vite.js.<br>👯 I’m looking to collaborate with a good company.<br>🌱 I’m currently learning JS, Node.js.<br>💬 Ask me about almost everything ;)
 
 
 ## 🌐 Socials:
@@ -14,25 +14,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcinBolt&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBolt&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarcinBolt&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarcinBolt&theme=monokai&no-frame=false&no-bg=false&margin-w=4)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## [EN] More about me
-### My name is Marcin. I am passionate about programming and enthusiastic about technology. I like to know how things work, what mechanisms they are subject to, and to figure out how they can be improved, optimized. I am interested in personal development - a holistic investment in myself - expanding my knowledge in many areas; soft skills as well as hard skills. I enjoy reading books about personal development, self-help books, non-fiction and biographies. I also happen to engage in fiction. I love a good movie and music - here, too, I don't stop at one genre. I try to keep an open mind, not limiting myself to one point of view. I absorb the world from a broad perspective. I don't eat meat, because I simply feel sorry for animals. I have three wonderful Cats myself. I like to run - I also do it for a healthy balance, to clear my mind and keep it in better shape. Such an optimistic realist of me :)
-
-## [PL] Więcej o mnie
-Mam na imię Marcin. Jestem pasjonatem programowania i entuzjastą technologii. Lubię wiedzieć, jak działają rzeczy, jakim podlegają mechanizmom, a także wymyślać jak można je usprawnić, zoptymalizować. Interesuje mnie rozwój osobisty — holistyczna inwestycja w siebie — poszerzanie wiedzy w wielu dziedzinach; umiejętności miękkie oraz twarde. Chętnie czytam książki o tematyce rozwoju osobistego, poradniki, literaturę faktu oraz biografie. Zdarza mi się wciągnąć również beletrystykę. Uwielbiam dobry film i muzykę — tu także nie poprzestaję na jednym gatunku. Staram się mieć otwarty umysł, nie ograniczać się do jednego punktu widzenia. Chłonę świat z szerokiej perspektywy. Nie jem mięsa, bo zwyczajnie mi żal zwierzaków. Sam mam trzy cudowne Koty. Lubię biegać — robię to też dla zdrowego balansu, by oczyścić umysł i utrzymać go w lepszej kondycji. Taki ze mnie optymistyczny realista :)
+## Summary about me:
+### Hey, my name is Marcin. I've been intensively learning to program in JavaSscript (Full Stack Developer) for over a year now, but in fact ever since I got my first computer, I've always been drawn to anything related to it. I like to know how something works, what mechanisms it is subjected to and think how it can be improved, optimized. I am interested in personal development - a holistic investment in myself - expanding my knowledge in many areas; soft as well as hard skills. I enjoy reading books on personal development, how-to books, non-fiction and biographies. I also sometimes reach for fiction. I love a good movie and music - here, too, I don't stop at one genre. I try to keep an open mind, not limiting myself to one point of view. I absorb the world from a broad perspective. I run as a hobby - I also do it for a healthy balance, to clear my mind and keep it in better shape.
 
 <!--
 **MarcinBolt/MarcinBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Wallet App
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Wallet App
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
