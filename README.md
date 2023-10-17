@@ -1,7 +1,7 @@
 ### Hi 👋
 
 # 💫 About Me:
-💻 I'm a Junior JavaScript Full Stack Developer.<br>🔭 I’m currently working on React, Node.js, Vite.js.<br>👯 I’m looking to collaborate with a good company.<br>🌱 I’m currently learning JS, Node.js.<br>💬 Ask me about almost everything ;)
+💻 I'm a Junior JavaScript Full Stack Developer.<br>🔭 I’m currently working on React, Node.js, Vite.js.<br>👯 I’m looking to collaborate with a good company.<br>🌱 I’m currently learning TypeScript, Next.js (BlackEgg 6-month course), using AI APIs in app (AI Devs 2 - 5-week course).<br>💬 Ask me about almost everything ;)
 
 
 ## 🌐 Socials:
