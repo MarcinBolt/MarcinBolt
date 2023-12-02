@@ -2,8 +2,8 @@
 
 ## 💫 About Me:
 - 💻 I'm a JavaScript Full Stack Developer.
-- 🔭 I’m currently working on increasing my skills in JS, React, Node, Express.
-- 🌱 I’m currently learning TypeScript, Next.js, using AI APIs in app.
+- 🔭 I’m currently working on increasing my skills in JS, Node.js, Express.js, React, MongoDB.
+- 🌱 I’m currently learning TypeScript, Next.js, Bun (package manager), using AI APIs in app.
 - 🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
 ## 💻 Tech Stack:
