@@ -1,9 +1,9 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## 💫 About Me:
-- 💻 I'm a JavaScript Full Stack Developer.
+- 💻 I'm a JavaScript Full Stack Engineer.
 - 🔭 I’m currently working on increasing my skills in JS, Node.js, Express.js, React, MongoDB.
-- 🌱 I’m currently learning TypeScript, Next.js, Bun (package manager), using AI APIs in app.
+- 🌱 I’m currently learning TypeScript, Next.js, AI tools, Bun (package manager), using AI APIs.
 - 🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
 ## 💻 Tech Stack:
@@ -20,9 +20,19 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Summary:
-From the moment I received my first computer, I have always been fascinated by everything related to it. This interest naturally steered me towards programming, to which I now dedicate myself entirely. I chose to learn full-stack programming in order to understand the operation of an application from a more complex perspective, which makes it easier to cooperate and communicate at the junction of back-end and front-end, as well as to better understand the total operation of the application as a whole.
+As an full stack engineer with a keen interest in computer science and the latest technologies, I am constantly developing my skills in both front-end and back-end programming. My commitment to improving the functionality of applications is comprehensive, allowing me to gain a deeper understanding and improve their performance. 
+My curiosity isn't limited to coding - I'm also interested in the human mind and habits, which fuels my drive to continuously learn, increase productivity, effective communication, and better cooperation. I am eager to use my diverse skill set to solve complex problems and contribute to team success.
+Outside of work, I maintain a balanced lifestyle through running, which increases my mental clarity and physical well-being.
+My curiosity pushes me to gain knowledge, discover new things, learn and grow - striving for excellence. As an engineer, I am constantly expanding my horizons and skills, which allows me to stay abreast of the latest trends and technologies in the industry.
 
-Personally, I am interested in understanding how things, programs (including the human mind and habits) work, how they can be improved to be more efficient. I am also interested in personal development - holistic investment in myself - expanding my knowledge in many areas; both soft and hard skills. I read books (or listen to audiobooks) on personal development, non-fiction and biographies, and occasionally reach for fiction. I love a good movie and music - here, too, I don't limit myself to one genre. I try to keep an open mind, not limiting myself to one point of view. I absorb the world from a broad perspective. As an open-minded person, I can naturally adapt to new environments. I enjoy running - I also do it for my health, to clear my mind and keep it in better shape.
+<!--My curiosity drives me to gain knowledge, discover new things, learn and grow, and strive for excellence. I believe that holistic development enables me to effectively solve the problems I encounter and achieve better results, especially when I consider them in a broader context.
+I am fascinated in fields related to computers and cutting-edge techonologies. 
+I chose to learn full-stack programming in order to understand the operation of an application from a more complex perspective, which makes it easier to cooperate and communicate at the junction of back-end and front-end, as well as to better understand the total operation of the application as a whole.
+
+I am interested in understanding the workings of various things, including human mind and habits, and how they can be improved and how I can increase my productivity. Personal development, seen as a holistic investment in oneself, is important to me. I strive to expand my knowledge in many areas, both in soft and hard skills. I believe that the ability to communicate and collaborate effectively is crucial. 
+I enjoy reading books and listening to audiobooks on personal development, non-fiction and biographies, and sometimes fiction. I love a good movie and music, not limiting myself to one genre. I try to keep an open mind and not limit myself to one perspective. As an open-minded person, I adapt easily to new environments.
+I enjoy running. Also do it for my health, to clear my mind and keep it in better shape.
+-->
 
 <!--
 **MarcinBolt/MarcinBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
