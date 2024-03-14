@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 💻 I'm a JavaScript Full Stack Engineer.
 - 🔭 I’m currently working on increasing my skills in JS, Node.js, Express.js, React, MongoDB.
-- 🌱 I’m currently learning TypeScript, Next.js, AI tools, Bun (package manager), using AI APIs.
+- 🌱 I’m currently learning TypeScript, Next.js, AI tools, Bun (package manager), using AI APIs, Vue.js.
 - 🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
 ## 💻 Tech Stack:
