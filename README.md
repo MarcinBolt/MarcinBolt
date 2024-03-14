@@ -1,9 +1,10 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> My name is Marcin.
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+# I'm Marcin.
 
 ## 💫 About Me:
 - 💻 I'm a JavaScript Full Stack Engineer.
 - 🔭 I’m currently working on increasing my skills in JS, Node.js, Express.js, React, MongoDB.
-- 🌱 I’m currently learning TypeScript, Next.js, AI tools, Bun (package manager), using AI APIs, Vue.js.
+- 🌱 I’m currently learning TypeScript, Next.js, AI Tools, Bun (package manager), using AI APIs, Vue.js.
 - 🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
 ## 💻 Tech Stack:
