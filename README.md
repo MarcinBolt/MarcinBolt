@@ -20,10 +20,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Summary:
-As an full stack engineer with a keen interest in computer science and the latest technologies, I am constantly developing my skills in both front-end and back-end programming. My commitment to improving the functionality of applications is comprehensive, allowing me to gain a deeper understanding and improve their performance. 
-My curiosity isn't limited to coding - I'm also interested in the human mind and habits, which fuels my drive to continuously learn, increase productivity, effective communication, and better cooperation. I am eager to use my diverse skill set to solve complex problems and contribute to team success.
-Outside of work, I maintain a balanced lifestyle through running, which increases my mental clarity and physical well-being.
-My curiosity pushes me to gain knowledge, discover new things, learn and grow - striving for excellence. As an engineer, I am constantly expanding my horizons and skills, which allows me to stay abreast of the latest trends and technologies in the industry.
+As an engineer with a keen interest in computer science and the latest technologies, I am constantly developing my skills in both front-end and back-end programming. I am committed to understanding how applications work, deepening my understanding, improving performance and proposing useful features.
+
+My curiosity is not limited to coding – I am also interested in the human mind and habits, which fuels my drive for continuous learning, increased productivity, more effective communication, better collaboration, and understand others with empathy. I am eager to use my diverse skill set to solve complex problems and contribute to team success. My curiosity pushes me to gain knowledge, discover new things, learn and grow – striving for excellence. As an open-minded person with enthusiasm, constantly expanding my horizons and skills, which allows me to stay up to date with the latest trends and technologies in the industry. 
+
+I try to maintain a balanced lifestyle through running, which enhances my mental clarity and physical well-being.
 
 <!--My curiosity drives me to gain knowledge, discover new things, learn and grow, and strive for excellence. I believe that holistic development enables me to effectively solve the problems I encounter and achieve better results, especially when I consider them in a broader context.
 I am fascinated in fields related to computers and cutting-edge techonologies. 
