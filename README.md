@@ -1,11 +1,12 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## 💫 About Me:
-I'm curious, learning something new every day, never giving up, seeking and discovering…
-- 💻 I'm a  JavaScript Full-Stack Engineer,
-- 🔭 I’m currently working on increasing my skills in JS, Node.js, Express.js, React, MongoDB.
-- 🌱 I’m currently learning TypeScript, Next.js, (check [pairplay.fun](https://pairplay.fun)), Vue.js,
-- ✨ I'm also fascinated by Artificial Intelligence, AI tools, using AI through APIs,
+### I explore the world with the curiosity of a child 👦🏻, striving to learn something new day by day. I stumble and stray, but then I get up, draw conclusions from mistakes, and adapt. I engage heavily in everything I do, seeking, discovering, having fun, and learning…
+
+- 💻 I'm a JavaScript Junior Full-Stack Engineer,
+- 🔭 I’m working on increasing my skills in JavaScript, Node, React, MongoDB.
+- 🌱 I’m currently explore TypeScript, Next.js, VPS, Vercel (check [pairplay.fun](https://pairplay.fun)) and Vue,
+- ✨ I'm fascinated by Artificial Intelligence, LLMs, AI tools, using AI through APIs,
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
 ## 💻 Tech Stack:
