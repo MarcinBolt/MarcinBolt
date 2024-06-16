@@ -5,7 +5,7 @@
 
 - 💻 I'm a JavaScript Junior Full-Stack Engineer,
 - 🔭 I’m working on increasing my skills in JavaScript, Node, React, MongoDB.
-- 🌱 I’m currently explore TypeScript, Next.js, VPS, Vercel (check [pairplay.fun](https://pairplay.fun)) and Vue,
+- 🌱 I’m currently explore VPS, Vercel, TypeScript, Next.js (check [pairplay.fun](https://pairplay.fun)) and Vue,
 - ✨ I'm fascinated by Artificial Intelligence, LLMs, AI tools, using AI through APIs,
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
