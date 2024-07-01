@@ -3,7 +3,7 @@
 ## 💫 About Me:
 ### I explore the world with the curiosity of a child 👦🏻, striving to learn something new day by day. I make mistakes and stumble, but then I get up, draw conclusions, and adapt. I engage heavily when I work, seek, discover, learn and have fun…
 
-- 💻 I'm a JavaScript Junior Full-Stack Engineer,
+- 💻 I'm a JavaScript Full-Stack Engineer,
 - 🔭 I’m working on increasing my skills in JavaScript, Node, React, MongoDB.
 - 🌱 I’m currently explore VPS, Vercel, TypeScript, Next.js (check [pairplay.fun](https://pairplay.fun)) and Vue,
 - ✨ I'm fascinated by Artificial Intelligence, LLMs, AI tools, using AI through APIs,
