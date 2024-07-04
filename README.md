@@ -1,8 +1,7 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## 💫 About Me:
-### I explore the world with the curiosity of a child 👦🏻, striving to learn something new day by day. I make mistakes and stumble, but then I get up, draw conclusions, and adapt. I engage heavily when I work, seek, discover, learn and have fun…
-
+<!--### I explore the world with the curiosity of a child 👦🏻, striving to learn something new day by day. I make mistakes and stumble, but then I get up, draw conclusions, and adapt. I engage heavily when I work, seek, discover, learn and have fun…-->
 - 💻 I'm a JavaScript Full-Stack Engineer,
 - 🔭 I’m working on increasing my skills in JavaScript, Node, React, MongoDB.
 - 🌱 I’m currently explore VPS, Vercel, TypeScript, Next.js (check [pairplay.fun](https://pairplay.fun)) and Vue,
