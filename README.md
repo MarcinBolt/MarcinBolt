@@ -19,22 +19,6 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcinBolt&theme=monokai&no-frame=false&no-bg=false&margin-w=4)-->
 
-## Summary:
-As an engineer with a keen interest in computer science and the latest technologies, I am constantly developing my skills in both front-end and back-end programming. I am committed to understanding how applications work, deepening my understanding, improving performance and proposing useful features.
-
-My curiosity is not limited to coding – I am also interested in the human mind and habits, which fuels my drive for continuous learning, increased productivity, more effective communication, better collaboration, and understand others with empathy. I am eager to use my diverse skill set to solve complex problems and contribute to team success. My curiosity pushes me to gain knowledge, discover new things, learn and grow – striving for excellence. As an open-minded person with enthusiasm, constantly expanding my horizons and skills, which allows me to stay up to date with the latest trends and technologies in the industry. 
-
-I try to maintain a balanced lifestyle through running, which enhances my mental clarity and physical well-being.
-
-<!--My curiosity drives me to gain knowledge, discover new things, learn and grow, and strive for excellence. I believe that holistic development enables me to effectively solve the problems I encounter and achieve better results, especially when I consider them in a broader context.
-I am fascinated in fields related to computers and cutting-edge techonologies. 
-I chose to learn full-stack programming in order to understand the operation of an application from a more complex perspective, which makes it easier to cooperate and communicate at the junction of back-end and front-end, as well as to better understand the total operation of the application as a whole.
-
-I am interested in understanding the workings of various things, including human mind and habits, and how they can be improved and how I can increase my productivity. Personal development, seen as a holistic investment in oneself, is important to me. I strive to expand my knowledge in many areas, both in soft and hard skills. I believe that the ability to communicate and collaborate effectively is crucial. 
-I enjoy reading books and listening to audiobooks on personal development, non-fiction and biographies, and sometimes fiction. I love a good movie and music, not limiting myself to one genre. I try to keep an open mind and not limit myself to one perspective. As an open-minded person, I adapt easily to new environments.
-I enjoy running. Also do it for my health, to clear my mind and keep it in better shape.
--->
-
 <!--
 **MarcinBolt/MarcinBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
