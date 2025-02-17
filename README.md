@@ -127,8 +127,10 @@ Here are the technologies and tools I use:
 
 ## 🤝 Teamwork & Collaboration:
 - **Remote Collaboration:** Over 2 years of experience working with distributed teams.  
-- **PR's:**
-- **Code Reviews:** 
+- **Pull Requests**
+- **Code Reviews** 
+- **Design BE - FE Communication** 
+- **Code Conflicts Solwing** 
 
 ---
 
