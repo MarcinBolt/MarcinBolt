@@ -22,7 +22,7 @@ I am a **JavaScript Full-Stack Engineer** with a strong passion for building sca
 
 ## 🚀 Featured Projects:
 ### 1. [Squadka](https://squadka.pl)
-I am the **Co-founder, DevOps & Developer** of Squadka, a modern web application designed to simplify team collaboration and scheduling. Since May 2024, I have been working on this project remotely with [MarikaGK](https://github.com/MarikaGK). Together, we continuously design, build and improve the application to meet user needs.
+I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform designed to help organize collections, track contributions and expenses, and automate communication with participants. Since May 2024, I have been working on this project remotely with [MarikaGK](https://github.com/MarikaGK). Together, we continuously design, build and improve the application to meet user needs.
 
 #### [Tech Stack:](pplx://action/followup)
 - **[Frontend](pplx://action/followup):** Vue.js 3 + Vuetify 3 + Pinia (Vite.js)  
