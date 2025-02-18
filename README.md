@@ -22,7 +22,7 @@ I am a **JavaScript Full-Stack Engineer** with a strong passion for building sca
 
 ## 🚀 Featured Projects:
 ### 1. [Squadka](https://squadka.pl)
-I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform designed to help organize collections, track contributions and expenses, and automate communication with participants. Since May 2024, I have been working on this project remotely with [MarikaGK](https://github.com/MarikaGK). Together, we continuously design, build and improve the application to meet user needs.
+I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform designed to help organize collections, track contributions and expenses, and automate communication with participants. The app is fully responsive (**RWD**) and built as a Progressive Web App (**PWA**) to provide a seamless user experience across devices. Since May 2024, I have been working on this project remotely with [MarikaGK](https://github.com/MarikaGK). Together, we continuously design, build and improve the application to meet user needs.
 
 #### [Tech Stack:](pplx://action/followup)
 - **[Frontend](pplx://action/followup):** Vue.js 3 + Vuetify 3 + Pinia (Vite.js)  
@@ -32,7 +32,7 @@ I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform d
 ---
 
 ### 2. [Pairplay](https://pairplay.fun)
-I am part of the Pairplay's **development team**, an erotic game, designed in 2023, for couples that is not only a source of unforgettable experiences but also an opportunity to discover new aspects of your relationship. pairplay is not just a game; it is a journey that will allow you to rediscover each other, bring freshness to your relationship, and stimulate desire, which is an essential element of a successful partnership.
+I am part of the Pairplay's **development team**, an erotic game, designed in 2023, for couples that is not only a source of unforgettable experiences but also an opportunity to discover new aspects of your relationship. pairplay is not just a game; it is a journey that will allow you to rediscover each other, bring freshness to your relationship, and stimulate desire, which is an essential element of a successful partnership. The app is fully responsive (**RWD**) to ensure usability across various devices. 
 
 #### [Tech Stack:](pplx://action/followup)
 - **[Framework](pplx://action/followup):** Next.js  
