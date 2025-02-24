@@ -17,6 +17,8 @@ I am a **JavaScript Full-Stack Engineer** with a strong passion for building sca
     - **OCR (Optical Character Recognition)**  
 - Experienced in real-time communication using **WebSockets**.
 - Skilled in using modern frontend tools like **Tailwind CSS** for responsive design.
+- Proficient in working with APIs: both consuming and creating them.
+- Knowledgeable in CRUD operations, asynchronous programming, debugging techniques, and browser DevTools (e.g., simulating devices, console, network inspection, localStorage/sessionStorage management, cookies, application state inspection with Pinia/Redux, debugging HTML elements and live styling).
 - 🤝 I value teamwork and have extensive experience working remotely in collaborative environments.  
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
 
@@ -43,6 +45,55 @@ Pairplay is a platform designed to enhance collaborative experiences through inn
 - **[Authentication](pplx://action/followup):** AuthProvider for secure user management 
 - **[DevOps](pplx://action/followup):** CI/CD with BitBucket / Github, Vercel (Monorepo)
 
+
+---
+
+### 3. [Wallet-App](https://wallet-app-hi5.vercel.app) ([Github repo](https://github.com/MarcinBolt/Wallet-App))
+I was the **Team Lead** for Wallet-App, a team project developed as the final assignment during the GoIT JavaScript Full Stack Developer course (08.2022 – 10.2023). This app helps users manage income and expenses while providing monthly balance statistics using Chart.js. It includes user registration with email verification and follows a mobile-first approach (**RWD**) for smartphones, tablets, and desktops.
+
+#### Key Responsibilities:
+- Coordinated tasks using Agile/Scrum methodologies and Trello.
+- Set up the project with Vite and maintained the GitHub repository.
+- Implemented backend/frontend communication design.
+- Configured Passport.js for authentication and Nodemailer for email services.
+- Deployed backend on VPS (Ubuntu) with CI/CD pipelines using GitHub Actions and Vercel.
+
+#### Tech Stack:
+- **Frontend:** React + Redux + Material UI (MUI)
+- **Backend:** Node.js + Express + MongoDB
+- **Libraries/Tools:** JWT Authentication, Bcrypt, Axios, Chart.js, SendGrid, Formik/Yup/Joi for form validation
+- **DevOps:** CI/CD pipelines with GitHub Actions; deployed on Vercel and VPS
+
+---
+
+### 4. [Filmoteka](https://marikagk.github.io/filmoteka) ([Github repo](https://github.com/MarikaGK/filmoteka))
+I contributed as the **Team Lead Assistant** to Filmoteka, a team project designed for searching movies and creating a personal online library of favorites. The app was built with a mobile-first approach (**RWD**) to ensure usability across devices.
+
+#### Key Responsibilities:
+- Assisted in project coordination using Agile/Scrum methodologies and Trello.
+- Collaborated on problem-solving, pair programming, and code reviews.
+- Configured Firebase authentication for Google accounts.
+- Implemented features like light/dark mode toggle, localStorage management, movie fetching functions (CRUD), pagination, modal windows, loaders, and styling components according to Figma designs.
+
+#### Tech Stack:
+- **Frontend:** Vanilla JS + SCSS
+- **Backend/API:** themoviedb.org API
+- **Libraries/Tools:** Firebase Authentication, Parcel bundler
+
+---
+
+### 5. [Phonebook](https://marcinbolt.github.io/Phonebook) ([Github repo](https://github.com/MarcinBolt/Phonebook))
+Phonebook is an individual project designed as a contact management app with database integration. The app is built with a mobile-first approach (**RWD**) to ensure usability across smartphones, tablets, and desktops.
+
+#### Key Features:
+- Manage contacts through CRUD operations.
+- Fully responsive design (**RWD**) for seamless usage across devices.
+
+#### Tech Stack:
+- **Frontend:** React + Redux + Material UI (MUI) + CSS
+- **Backend Services:** HerokuApp
+- **Tools/Libraries:** Vite build tool, Axios for HTTP requests
+
 ---
 
 
@@ -61,9 +112,10 @@ Here are the technologies and tools I use:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23FFFFFF)
+![DevTools](https://img.shields.io/badge/DevTools-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=%23FFFFFF) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 ### Backend
