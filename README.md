@@ -82,7 +82,7 @@ I contributed as the **Team Lead Assistant** to Filmoteka, a team project design
 
 ---
 
-### 5. [Phonebook](https://marcinbolt.github.io/Phonebook) ([Github repo](https://github.com/MarcinBolt/Phonebook))
+<!--### 5. [Phonebook](https://marcinbolt.github.io/Phonebook) ([Github repo](https://github.com/MarcinBolt/Phonebook))
 Phonebook is an individual project designed as a contact management app with database integration. The app is built with a mobile-first approach (**RWD**) to ensure usability across smartphones, tablets, and desktops.
 
 #### Key Features:
@@ -94,7 +94,7 @@ Phonebook is an individual project designed as a contact management app with dat
 - **Backend Services:** HerokuApp
 - **Tools/Libraries:** Vite build tool, Axios for HTTP requests
 
----
+--- -->
 
 
 ## 💻 Tech Stack:
