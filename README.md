@@ -4,8 +4,8 @@
 I am a **JavaScript Full-Stack Engineer** with a strong passion for building scalable, user-friendly web applications and clean, maintainable code. I thrive in collaborative environments and have extensive experience working remotely in dynamic teams.
 
 ### [Highlights:](pplx://action/followup)
-- **[2+ years of experience](pplx://action/followup)** in software development.
-- Skilled in **JavaScript**, **Node.js**, **Express**, **React**, **Vue.js**, and **MongoDB**.
+- **[3+ years of experience](pplx://action/followup)** in software development.
+- Skilled in **JavaScript**, **TS**, **Node.js**, **Express**, **React**, **Vue.js**, **Next.js**, **MongoDB** and **Supabase**.
 - Proficient in creating **CI/CD pipelines**, deployments on **Vercel** and **Ubuntu VPS**, and remote team collaboration.
 - Enthusiast of **Artificial Intelligence (AI)** and AI tools, with hands-on experience from two dedicated workshops:
   - **AI Devs 2 (November 2023)**
