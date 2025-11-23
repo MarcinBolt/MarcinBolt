@@ -58,7 +58,7 @@ I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform d
 
 ---
 
-### 3. [Pairplay](https://pairplay-fun.vercel.app/) (Currently the domain is offline)
+### 3. [Pairplay](https://pairplay-fun.vercel.app/) (Currently domain pairplay.fun is offline, but Vercel domain is online)
 Pairplay is a platform designed to enhance collaborative experiences through innovative features. The app is fully responsive (**RWD**) to ensure usability across various devices. This project uses **Tailwind CSS** on the frontend to provide a modern, customizable design system.
 
 #### [Tech Stack:](pplx://action/followup)
