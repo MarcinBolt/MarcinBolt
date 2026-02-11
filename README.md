@@ -28,7 +28,7 @@ I am a **JavaScript Full-Stack Engineer** with a strong passion for building sca
 
 ## 🚀 Featured Projects:
 
-### 1. [CentSI - Intelligent Financial Manager](https://github.com/MarcinBolt/centsi-mvp)
+### 1. [CentSI - Intelligent Financial Manager](https://centsi-mvp.vercel.app)
 > **🏆 10xDevs 2 Course Final Project - Graduated with Distinction (Dec 2025)**
 
 I created **CentSI**, a modern web application for managing financial obligations and product warranties. The core of the system is **Sensei AI**, a conversational agent that uses **Natural Language Processing** and **Tool Calling** to manage data, analyze expenses, and fill out forms automatically.
