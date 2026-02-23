@@ -160,21 +160,29 @@ I contributed as the **Team Lead Assistant** to Filmoteka, a team project design
 ### AI Tools & APIs
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=%23FFFFFF)
 ![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-black?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2347A248.svg?style=for-the-badge&logo=openai&logoColor=%23FFFFFF)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-black?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ### DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Ubuntu VPS](https://img.shields.io/badge/VPS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+![BitBucket](https://img.shields.io/badge/BitBucket-blue?style=for-the-badge&logo=bitbucket&logoColor=%23FFFFFF)
+![Husky](https://img.shields.io/badge/Husky-%232C3E50.svg?style=for-the-badge&logo=npm&logoColor=%23FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=%23FFFFFF)
 
 ---
 
 ## 🤝 Teamwork & Collaboration:
-- Over 2 years of experience working with distributed teams.
+- Over 3 years of experience working with distributed teams.
 - Skilled in code reviews, creating pull requests, resolving code conflicts, and designing BE-FE communication.
 
 ---
