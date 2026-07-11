@@ -1,195 +1,221 @@
-# Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey, I'm Marcin 👋
 
-## 💼 About Me
-I am a **JavaScript Full-Stack Engineer** with a strong passion for building scalable, user-friendly web applications and clean, maintainable code. I thrive in collaborative environments and have extensive experience working remotely in dynamic teams.
+### AI Engineer building scalable web products, AI-powered applications, and interfaces people actually enjoy using.
 
-### Highlights:
-- **4+ years of experience** in software development.
-- Skilled in **JavaScript**, **TypeScript**, **Node.js**, **Express**, **React**, **Vue.js**, **Next.js**, **MongoDB**, and **Supabase**.
-- Proficient in creating **CI/CD pipelines**, deployments on **Vercel** and **Ubuntu VPS**, and remote team collaboration.
-- **Testing & Quality Assurance:** Experienced in writing E2E tests with **Playwright** and unit tests with **Vitest**.
-- **AI & Agentic Workflows Enthusiast:**
-  - **10xDevs 2 (December 2025)** – Course completed with **Distinction** 🏆. Built an advanced AI Financial Assistant using Agentic patterns.
-  - **AI Devs 3 – Building Agents (November 2024)**
-  - **AI Devs 2 (November 2023)**
-  - Experienced in integrating:
-    - **OpenAI API** and **OpenRouter API**
-    - **Text-to-Speech (TTS)** & **Speech-to-Text (Whisper)**
-    - **OCR (Optical Character Recognition)**
-    - **LLM Model Integration** for AI-powered features and tool calling.
-- Experienced in real-time communication using **WebSockets**.
-- Skilled in using modern frontend tools like **Tailwind CSS** and **Shadcn/ui** for responsive design.
-- Proficient in working with APIs: both consuming and creating them.
-- Knowledgeable in **Supabase Auth**, **RLS (Row Level Security)**, and database architecture.
-- 🤝 I value teamwork and have extensive experience working remotely in collaborative environments.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bołtruczyk-664853273/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-bo%C5%82truczyk-664853273/)
+[![FURRYLOG](https://img.shields.io/badge/FURRYLOG-Live_App-F83BF5?style=for-the-badge&logo=paw&logoColor=white)](https://www.furrylog.online/)
+[![NaumAI](https://img.shields.io/badge/NaumAI-Live_Platform-9253FF?style=for-the-badge)](https://naumai.pl)
+![Profile Views](https://komarev.com/ghpvc/?username=MarcinBolt&style=for-the-badge&color=0A66C2)
 
 ---
 
-## 🚀 Featured Projects:
+## About Me
 
-### 1. [CentSI - Intelligent Financial Manager](https://centsi-mvp.vercel.app)
-> **🏆 10xDevs 2 Course Final Project - Graduated with Distinction (Dec 2025)**
+I am a **AI Engineer** with **4+ years of experience** building production-ready web applications. I turn chaotic requirements into clean, scalable software - and I usually do it without starting a diplomatic incident. 
 
-I created **CentSI**, a modern web application for managing financial obligations and product warranties. The core of the system is **Sensei AI**, a conversational agent that uses **Natural Language Processing** and **Tool Calling** to manage data, analyze expenses, and fill out forms automatically.
+My sweet spot is the intersection of solid backend architecture, thoughtful UX, and applied AI. I like my code clean, my deployments automated, and my interfaces intuitive enough that nobody ever has to read a manual.
 
-#### Key Features:
-- **Sensei AI Agent:** Conversational interface capable of executing 30+ financial tools (read/write data, analytics).
-- **Smart Management:** Recurring payments (RRule), warranty tracking with expiration alerts, and file attachments.
-- **Security:** Implemented **MFA**, **Row-Level Security (RLS)**, and encrypted API keys.
-- **Robust Testing:** Fully tested with **Playwright** (E2E) and **Vitest** (Unit/Integration).
+- **Engineering:** TypeScript, React, Next.js, Vue.js, Node.js, Express, and secure database architectures.
+- **Applied AI:** Integrating LLMs, tool calling, RAG, OCR, TTS/STT, and agentic workflows into real-world products.
+- **Quality & Delivery:** Playwright, Vitest, CI/CD, and automated deployments (Vercel, VPS).
+- **Security:** Authentication, MFA, Row-Level Security (RLS), and API protection.
 
-#### Tech Stack:
-- **Frontend:** Next.js 15, React 19, TypeScript 5, Tailwind CSS 4, Shadcn/ui, Framer Motion
-- **State Management:** Zustand, TanStack Query
-- **Backend:** Supabase (PostgreSQL, Auth, Storage, RLS), Next.js API Routes
-- **AI & Testing:** OpenRouter API, Playwright, Vitest
+### Modern Workflow & AI Prototyping
 
----
-
-### 2. [NaumAI](https://naumai.pl)
-I am a **Full-Stack Developer** on NaumAI, a modern AI-powered educational platform designed to help users learn more effectively. The application automatically generates personalized study materials from user-provided content and provides intelligent conversational AI for deeper understanding. I contribute to both frontend and backend development, working on features like spaced repetition systems, gamification, document parsing, and real-time notifications.
-
-#### [Key Features:](pplx://action/followup)
-- **AI-Powered Generation:** Automatic flashcard and quiz generation from various document formats
-- **Spaced Repetition System (SRS):** Optimized learning intervals based on performance metrics
-- **Gamification:** Streaks, achievements, daily goals, and progress tracking
-- **RAG-Based Chat:** Intelligent conversational AI for material interaction
-- **Multi-Format Support:** PDF, DOCX, images with OCR capabilities
-- **Advanced Material Management:** Markdown support with rich content editing
-- **Real-Time Notifications:** User notification system with email integration
-
-#### [Tech Stack:](pplx://action/followup)
-- **Frontend:** Next.js 15, React 19, TypeScript 5, Tailwind CSS 4
-- **Backend:** Supabase (PostgreSQL, Auth, Storage), Next.js API Routes
-- **AI Integration:** OpenRouter.ai for multiple LLM models
-- **Database:** PostgreSQL with RLS security, 43 tables including SRS and gamification systems
-- **Document Processing:** PDF parsing, DOCX conversion (Mammoth), OCR with Tesseract/Google Vision
-- **Email Service:** Supabase SMTP for notifications and communication
+I don't just write code; I leverage the best modern tools to ship faster and smarter. 
+- **AI Coding & Research:** My daily drivers include **Cursor**, **Claude Code**, and **Codex** for augmented development, alongside **Gemini** and **NotebookLM** for deep research and context wrangling.
+- **Visuals:** I use **Nano Banana** to generate high-quality graphical assets when things need to look good yesterday.
+- **Product & Design:** I understand that building the right thing is just as important as building it right. I actively use and understand platforms like **Lovable**, **Replit**, **Mobbin**, **Manus**, **Descript**, and **ChatPRD** to streamine design, product management, and rapid prototyping.
 
 ---
 
-### 3. [Squadka](https://squadka.pl)
-I am the **Co-founder, DevOps & Developer** of Squadka, an innovative platform designed to help organize collections, track contributions and expenses, and automate communication with participants. The app is fully responsive (**RWD**) and built as a Progressive Web App (**PWA**) to provide a seamless user experience across devices. Since May 2024, I have been working on this project remotely with [MarikaGK](https://github.com/MarikaGK). Together, we continuously design, build, and improve the application to meet user needs. It also leverages **WebSockets** for real-time communication.
+## Featured Projects
 
-#### [Tech Stack:](pplx://action/followup)
-- **[Frontend](pplx://action/followup):** Vue.js 3 + Vuetify 3 + Pinia (Vite.js)
-- **[Backend](pplx://action/followup):** Node.js + Express + MongoDB
-- **[DevOps](pplx://action/followup):** CI/CD with GitHub Actions, Vercel (Frontend), Ubuntu VPS (Backend)
+### 1. [FURRYLOG - Smart Pet Care](https://www.furrylog.online/)
 
----
+A premium, Progressive Web Application (PWA) for managing pets' health, daily care, documents, and expenses. I designed and developed FURRYLOG as a complete SaaS-grade product focused on making pet care highly organized and genuinely pleasant to use.
 
-### 4. [Pairplay](https://pairplay-fun.vercel.app/) (Currently domain pairplay.fun is offline, but Vercel domain is online)
-Pairplay is a platform designed to enhance collaborative experiences through innovative features. The app is fully responsive (**RWD**) to ensure usability across various devices. This project uses **Tailwind CSS** on the frontend to provide a modern, customizable design system.
+**Highlights:**
+- **Comprehensive Management:** Tracks medical records, vaccinations, medications, weight growth, and daily activities.
+- **Financial Tracking:** Categorized costs and spending trends for better budgeting.
+- **Co-parenting:** QR invitations and role-based access for family members and pet sitters.
+- **Premium UX:** Installable PWA, offline support, dark/light themes, fluid animations, and complete Polish, English, and German localization.
 
-#### [Tech Stack:](pplx://action/followup)
-- **[Framework](pplx://action/followup):** Next.js
-- **[Backend](pplx://action/followup):** tRPC + Prisma + MongoDB
-- **[Frontend](pplx://action/followup):** TypeScript + React + Tailwind CSS
-- **[Authentication](pplx://action/followup):** AuthProvider for secure user management
-- **[DevOps](pplx://action/followup):** CI/CD with BitBucket / Github, Vercel (Monorepo)
-
+**Tech Stack:** React 19, TypeScript, Vite, Tailwind CSS, Firebase (Firestore & Auth), Node.js, Express, Recharts.
 
 ---
 
-### 5. [Wallet-App](https://wallet-app-hi5.vercel.app) ([Github repo](https://github.com/MarcinBolt/Wallet-App))
-I was the **Team Lead** for Wallet-App, a team project developed as the final assignment during the GoIT JavaScript Full Stack Developer course (08.2022 – 10.2023). This app helps users manage income and expenses while providing monthly balance statistics using Chart.js. It includes user registration with email verification and follows a mobile-first approach (**RWD**) for smartphones, tablets, and desktops.
+### 2. [CentSI - Intelligent Financial Manager](https://centsi-mvp.vercel.app)
 
-#### Key Responsibilities:
-- Coordinated tasks using Agile/Scrum methodologies and Trello.
-- Set up the project with Vite and maintained the GitHub repository.
-- Implemented backend/frontend communication design.
-- Configured Passport.js for authentication and Nodemailer for email services.
-- Deployed backend on VPS (Ubuntu) with CI/CD pipelines using GitHub Actions and Vercel.
+**10xDevs 2 Final Project - completed with Distinction**
 
-#### Tech Stack:
-- **Frontend:** React + Redux + Material UI (MUI)
-- **Backend:** Node.js + Express + MongoDB
-- **Libraries/Tools:** JWT Authentication, Bcrypt, Axios, Chart.js, SendGrid, Formik/Yup/Joi for form validation
-- **DevOps:** CI/CD pipelines with GitHub Actions; deployed on Vercel and VPS
+CentSI is a modern application for managing financial obligations, recurring payments, expenses, and product warranties. Its core feature is **Sensei AI**, a conversational agent capable of securely operating on application data.
+
+**Highlights:**
+- **Agentic AI:** Conversational interface with over 30 financial and analytical tools.
+- **Automation:** Recurring payments, expense analysis, and warranty expiration tracking.
+- **Security & Quality:** MFA, Row-Level Security, encrypted API keys, and full E2E/Unit test coverage.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, OpenRouter, Playwright, Vitest.
 
 ---
 
-### 6. [Filmoteka](https://marikagk.github.io/filmoteka) ([Github repo](https://github.com/MarikaGK/filmoteka))
-I contributed as the **Team Lead Assistant** to Filmoteka, a team project designed for searching movies and creating a personal online library of favorites. The app was built with a mobile-first approach (**RWD**) to ensure usability across devices.
+### 3. [NaumAI](https://naumai.pl)
 
-#### Key Responsibilities:
-- Assisted in project coordination using Agile/Scrum methodologies and Trello.
-- Collaborated on problem-solving, pair programming, and code reviews.
-- Configured Firebase authentication for Google accounts.
-- Implemented features like light/dark mode toggle, localStorage management, movie fetching functions (CRUD), pagination, modal windows, loaders, and styling components according to Figma designs.
+I work as a **Full-Stack Developer** on NaumAI, an educational platform that transforms uploaded content into personalized learning materials using AI.
 
-#### Tech Stack:
-- **Frontend:** Vanilla JS + SCSS
-- **Backend/API:** themoviedb.org API
-- **Libraries/Tools:** Firebase Authentication, Parcel bundler
+**Highlights:**
+- AI-generated flashcards, quizzes, and learning resources from PDFs, DOCX, and images (OCR).
+- Spaced Repetition System (SRS) based on user performance metrics.
+- RAG-powered conversations allowing users to chat directly with their study materials.
+- Gamification, real-time notifications, and secure PostgreSQL architecture.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, OpenRouter, Tesseract/Google Vision.
 
 ---
 
-## 💻 Tech Stack:
+### 4. [Squadka](https://squadka.pl)
+
+**Co-founder, Developer & DevOps Engineer**
+
+A responsive PWA for organizing group collections, tracking contributions, and automating participant communication. Built remotely with [MarikaGK](https://github.com/MarikaGK), handling everything from product design to infrastructure.
+
+**Tech Stack:** Vue.js, Vuetify, Pinia, Node.js, Express, MongoDB, WebSockets, GitHub Actions, Vercel, Ubuntu VPS.
+
+---
+
+### 5. [Pairplay](https://pairplay-fun.vercel.app/)
+
+A responsive platform designed to enhance shared collaborative experiences through interactive features and a modern, mobile-friendly interface.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, tRPC, Prisma, MongoDB.
+
+---
+
+### 6. [Wallet-App](https://wallet-app-hi5.vercel.app) - [Repo](https://github.com/MarcinBolt/Wallet-App)
+
+**Team Lead** for a full-stack financial management application. Coordinated development through Agile/Scrum practices, designed API communication, and configured automated CI/CD deployments.
+
+**Tech Stack:** React, Redux, Node.js, Express, MongoDB, JWT, Chart.js, GitHub Actions.
+
+---
+
+## AI Engineering & Certifications
+
+### AI Devs 4 - Builders (April 2026)
+
+Completed **100% of the course assignments**, covering the engineering practices required to build dependable, production-ready AI applications.
+
+#### Core Areas
+
+- **Using LLMs in Code** — APIs, structured outputs, function calling, multimodal data, security, performance, and reliability
+- **Context Engineering** — context design, compression, extraction, prompt caching, tool outputs, and multi-agent architectures
+- **Observability & Evaluations** — datasets, offline and online evals, moderation, reliability measurement, and production monitoring
+- **Production AI Applications** — scalable architecture, background agents, human-in-the-loop workflows, and business-oriented AI systems
+
+
+> Certificate awarded after completing the five-week cohort program and passing all required assignments.
+
+
+### Additional AI Education
+- **10xDevs 2** - Completed with Distinction (December 2025)
+- **AI Devs 3: Building Agents** (November 2024)
+- **AI Devs 2** (November 2023)
+
+---
+
+## Technology Stack
+
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-%23EFD535.svg?style=for-the-badge&logo=pinia&logoColor=black)
-![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### State, Data & Application Architecture
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-EFD535?style=for-the-badge&logo=vue.js&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=%23FFFFFF)
-![tRPC](https://img.shields.io/badge/tRPC-%23000000.svg?style=for-the-badge&logo=trpc&logoColor=%23FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
-### Testing & QA
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+### AI & Modern Workflow
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0058A0?style=for-the-badge)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge)
+![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Mobbin](https://img.shields.io/badge/Mobbin-000000?style=for-the-badge)
+![Descript](https://img.shields.io/badge/Descript-17181C?style=for-the-badge)
 
-### AI Tools & APIs
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=%23FFFFFF)
-![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-black?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-black?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Ubuntu VPS](https://img.shields.io/badge/VPS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
-![BitBucket](https://img.shields.io/badge/BitBucket-blue?style=for-the-badge&logo=bitbucket&logoColor=%23FFFFFF)
-![Husky](https://img.shields.io/badge/Husky-%232C3E50.svg?style=for-the-badge&logo=npm&logoColor=%23FFFFFF)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=%23FFFFFF)
-
----
-
-## 🤝 Teamwork & Collaboration:
-- Over 3 years of experience working with distributed teams.
-- Skilled in code reviews, creating pull requests, resolving code conflicts, and designing BE-FE communication.
+### Testing, DevOps & Tools
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats: <img src="https://komarev.com/ghpvc/?username=MarcinBolt&style=square&color=blue" alt=""/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcinBolt&theme=transparent&hide_border=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBolt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
+## Collaboration
+
+Beyond writing code, I am comfortable taking ownership of the wider delivery process:
+
+- Translating product requirements into technical solutions
+- Designing frontend/backend contracts and database architecture
+- Reviewing code and maintaining engineering standards
+- Coordinating work in distributed teams
+- Building CI/CD pipelines and managing deployments
+- Debugging production issues across the full stack
+- Communicating technical decisions clearly—with humans, not only compilers
+
+I am open to **professional connections, product collaborations, and ambitious projects** involving modern web development or applied AI.
 
 ---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcinBolt&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBolt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Have an interesting product, collaboration, or AI idea?</strong><br />
+  Let's turn it into something useful - and preferably deployable.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/marcin-bo%C5%82truczyk-664853273/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
