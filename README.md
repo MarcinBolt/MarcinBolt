@@ -37,7 +37,6 @@ A premium, Progressive Web Application (PWA) for managing pets' health, daily ca
 
 **Highlights:**
 - **Secure Data Sharing:** Safely share medical documentation with a veterinarian or daily care routines with a pet sitter. Generate dedicated, password-protected links or quick-scan QR codes for tailored, role-based access - finally, no more searching for crumpled vaccination booklets in the waiting room.
-- **AI-Powered Insights:** Google Gemini analyzes medical records and daily logs to provide summaries, trends, and actionable suggestions.
 - **Comprehensive Management:** Tracks medical records, vaccinations, medications, weight growth, and daily activities.
 - **Financial Tracking:** Categorized costs and spending trends for better budgeting.
 - **Premium UX:** Installable PWA, offline support, dark/light themes, fluid animations, and complete Polish, English, and German localization.
