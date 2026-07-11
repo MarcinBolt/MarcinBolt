@@ -33,12 +33,13 @@ I don't just write code; I leverage the best modern tools to ship faster and sma
 
 ### 1. [FURRYLOG - Smart Pet Care](https://www.furrylog.online/)
 
-A premium, Progressive Web Application (PWA) for managing pets' health, daily care, documents, and expenses. I designed and developed FURRYLOG as a complete SaaS-grade product focused on making pet care highly organized and genuinely pleasant to use.
+A premium, Progressive Web Application (PWA) for managing pets' health, daily care, documents, and expenses. I designed and developed FURRYLOG as a complete SaaS-grade product focused on making pet care highly organized and genuinely pleasant to use. Because keeping your best friend healthy shouldn't require a chaotic spreadsheet from 2004.
 
 **Highlights:**
+- **Secure Data Sharing:** Safely share medical documentation with a veterinarian or daily care routines with a pet sitter. Generate dedicated, password-protected links or quick-scan QR codes for tailored, role-based access - finally, no more searching for crumpled vaccination booklets in the waiting room.
+- **AI-Powered Insights:** Google Gemini analyzes medical records and daily logs to provide summaries, trends, and actionable suggestions.
 - **Comprehensive Management:** Tracks medical records, vaccinations, medications, weight growth, and daily activities.
 - **Financial Tracking:** Categorized costs and spending trends for better budgeting.
-- **Co-parenting:** QR invitations and role-based access for family members and pet sitters.
 - **Premium UX:** Installable PWA, offline support, dark/light themes, fluid animations, and complete Polish, English, and German localization.
 
 **Tech Stack:** React 19, TypeScript, Vite, Tailwind CSS, Firebase (Firestore & Auth), Node.js, Express, Recharts.
